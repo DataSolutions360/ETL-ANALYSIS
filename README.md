@@ -13,14 +13,14 @@ will be added to a Postgres SQL Database.
 
 Read 3 data files illustrated below:
 
-WIKI_MOVIES DataFrame
+WIKI_MOVIES DataFrame:
 
 ![image](https://user-images.githubusercontent.com/8845050/171518084-439e3205-465c-4373-94f0-cdac04ab9668.png)
 
-KAGGLE_METADATA DataFrame
+KAGGLE_METADATA DataFrame:
 
 ![image](https://user-images.githubusercontent.com/8845050/171518129-bf6987ab-7500-455a-9f28-b28fffc94a01.png)
 
-RATINGS DataFrame
+RATINGS DataFrame:
 
 ![image](https://user-images.githubusercontent.com/8845050/171518148-71a13fc4-8e12-4169-b3ec-eb4ff097a888.png)
