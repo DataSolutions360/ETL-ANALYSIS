@@ -1,15 +1,15 @@
 # MOVIES ETL-ANALYSIS
 
-##Overview##
+## Overview ##
 
 The purpose of this project was to create an automated pipeline that would cleanse, 
 refine and categorize the data, eliminate unnecessary columns, and load the data into 
 readable, usable tables.  Python coding was used in Jupyter Notebook and eventually 
 will be added to a Postgres SQL Database.
 
-##Results##
+## Results ##
 
-##Deliverable 1: Write an ETL(Extract/Transform/Load) Function to read Three Data Files##
+## Deliverable 1: Write an ETL(Extract/Transform/Load) Function to read Three Data Files ##
 
 
 Read 3 data files illustrated below:
