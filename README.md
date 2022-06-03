@@ -16,14 +16,22 @@ Read 3 data files illustrated below:
 
 WIKI_MOVIES DataFrame:
 
+wiki_movies_df.head()
+
 ![image](https://user-images.githubusercontent.com/8845050/171804802-4dfa60bc-6f07-4c1d-834b-92ecacfed630.png)
 
 KAGGLE_METADATA DataFrame:
+
+kaggle_metadata_df.head()
 
 ![image](https://user-images.githubusercontent.com/8845050/171804673-07c8cb91-bcde-49b1-a088-9176e1f621d9.png)
 
 RATINGS DataFrame:
 
+ratings.head()
+
 ![image](https://user-images.githubusercontent.com/8845050/171804578-2a7c7a1f-fd67-4b6d-9774-a3474a6fd0fe.png)
+
+
 
 
