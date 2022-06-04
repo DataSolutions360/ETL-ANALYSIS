@@ -32,6 +32,11 @@ ratings.head()
 
 ![image](https://user-images.githubusercontent.com/8845050/171804578-2a7c7a1f-fd67-4b6d-9774-a3474a6fd0fe.png)
 
+## Deliverable 2: Extract and Transform the Wikipedia Data ##
 
+In Deliverable 2, the ETL process was placed on the Wikipedia Data file so it could be merged with the KAGGLE METADATA.  
+A TRY-EXCEPT block was also implemented to catch all errors.
+
+### wiki_movies_df (Deliverable 2) ###
 
 
