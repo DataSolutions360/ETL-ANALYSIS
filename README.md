@@ -61,4 +61,16 @@ Upon creating a Kaggle Metadata DF,  the Wiki_Movies_DF was with it to create a 
 
 ![image](https://user-images.githubusercontent.com/8845050/172026566-3f9c7401-c957-4ffc-aaa0-7ef127a3227a.png)
 
+## Deliverable 4:  Create the Movie Database ##
+
+The following 2 pictures illustrate the creation and import of data into their respective tables in Postgres DB environment
+in the "movie_data" database:
+
+### Movies Table ###
+
+![movies_query](https://user-images.githubusercontent.com/8845050/172788612-268b854c-df1c-42be-b277-41c5952fe459.PNG)
+
+### Ratings Table ###
+
+![ratings](https://user-images.githubusercontent.com/8845050/172788671-443e3043-1ea9-4801-a69a-a1eed3e3a9f3.PNG)
 
